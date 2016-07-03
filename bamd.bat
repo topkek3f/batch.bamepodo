@@ -1,7 +1,12 @@
 @ECHO OFF
+
 MODE 80,25
 COLOR F1
-TITLE bamd - Batch Media Downloader
+
+TITLE bamd - Batch Media Porn Downloader
+
+
+
 :Main
 ENDLOCAL
 SETLOCAL ENABLEDELAYEDEXPANSION
@@ -16,8 +21,8 @@ PAUSE
 EXIT
 
 
-REM :: Modules
 
+REM :: Modules
 
 :Intro
 CALL :SupServ
