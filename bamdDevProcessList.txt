@@ -1,0 +1,91 @@
+bamd - Batch Media Downloader
+
+FINISHED:
+
+TODO:
+
+xhamster.com
+	http://xhamster.com/xembed.php?video=3373229
+		video: {
+                file:""				
+				sources: {"240p":"http:\/\/a9-19.clients.cdn13.com\/003\/316\/3316305.mp4?cdn_creation_time=1462916095&cdn_ttl=14400&cdn_bw=150k&cdn_bw_fs=447k&cdn_hash=ad32f0086854d1c3fd26989c7d4cd8a9"},
+
+motherless.com
+	http://motherless.com/D70A0FE
+		__fileurl = 'http://cdn4.videos.motherlessmedia.com/videos/D70A0FE.mp4?fs=opencloud';
+		image"     : "http://cdn4.thumbs.motherlessmedia.com/thumbs/D70A0FE.jpg"
+
+porn.com
+	www.porn.com/videos/teen-squirts-on-cam-on-camteensporn-2363817
+		{id:"360p",url:"http://im.25c9d600.258c0e1.cdn2b.movies.porn.com/2/2363/2363817/NOWATERMARK_360.mp4?s=1462914171&e=1462921371&ri=1523&rs=96&h=5f957d0ef0e1e4bf389aa7919b649c3c",active:true}]
+
+pornhub.com
+	http://www.pornhub.com/view_video.php?viewkey=ph571d1ea09bd75
+		var player_quality_720p = 'http://cdn2b.video.pornhub.phncdn.com/videos/201604/24/74809071/720P_1500K_74809071.mp4?rs=180&ri=1400&ipa=37.201.214.148&s=1462914351&e=1462921551&h=d8728397a0e008bcfea320cd3532f591';
+			Closes! Error somehow
+			
+redtube.com
+	http://www.redtube.com/1512323
+		poster="http://mimg04.redtubefiles.com/m=enFamIbWx/_thumbs/0001512/1512323/1512323_013i.jpg">
+		<source src="http://vida.lsw.redtubefiles.com/videos/0001512/_mp4/1512323.mp4?st=GbxzQZzL4EnA6tSxdZ0c3w&e=1462921735&rs=51&ri=2700
+		
+xvideos.com
+xnxx.com
+	http://www.xvideos.com/video19044773/studentin_fickt_gut
+		new HTML5Player('html5video', '19044773', 'Studentin fickt Gut', false, 'http://videos2.cdn.xvideos.com/videos/3gp/3/c/1/xvideos.com_3c121c52173c60b4a55f30b7a22bc773.mp4?e=1462929075&ri=1024&rs=85&h=a4786ea920624e43dae864d36254acfb', 'http://videos2.cdn.xvideos.com/videos/mp4/3/c/1/xvideos.com_3c121c52173c60b4a55f30b7a22bc773.mp4?e=1462929075&ri=1024&rs=85&h=ba19dc36d66192c4094b903c45137506', 'http://cdn-hw-hls.xvideos.com/videos/hls/3c/12/1c/3c121c52173c60b4a55f30b7a22bc773/hls.m3u8?e=1462929075&l=0&h=9ef1676e9572ccc4e5fdd018b00eed1d', 'http://img100-773.xvideos.com/videos/thumbslll/3c/12/1c/3c121c52173c60b4a55f30b7a22bc773/3c121c52173c60b4a55f30b7a22bc773.26.jpg', video_related, 'http://img100-773.xvideos.com/videos/thumbs/3c/12/1c/3c121c52173c60b4a55f30b7a22bc773/mozaique.jpg', '3', '2', false,
+	
+heavy-r.com
+	http://www.heavy-r.com/video/224842/Teen_Stuffing_Pussy_With_Pencils/
+		file: 'http://cluster15a.heavy-r.com/v/d47215581cc19fa6ba30d93dcd8eb7ee/57325cce/vid/a3/31/08/a331083a2cd1c6b.mp4',
+		image: 'http://cluster10a.heavy-r.com/scr/de/5d/b8/de5db8119359e42_8.jpg',
+		
+eporner.com
+	http://www.eporner.com/hd-porn/199462/Hot-Girlfriend-Swallows-Hot-White-Jizz/
+		http://www.eporner.com/dload/199462/720/199462-720p.mp4
+		
+shameless.com
+	http://www.shameless.com/videos/amateur-couple-having-an-intense-sex-on-webcam/
+		var flashvars = {
+            duration: 600,
+            video_id: '68394
+			
+youjizz.com
+	http://www.youjizz.com/videos/two-beauties-sharing-a-cock-30090301.html
+		www.youjizz.com/videos/embed/30090301
+			file",encodeURIComponent("http://im.25c9d694.446c164.cdn2c.videos2.yjcontentdelivery.com/f/8/f8706682294d3b5d755eb11e82d947131456607107-640-360-600-h264.flv?rs=85&ri=340&s=1462832486&e=1463005286&h=f8d5f10ca0a2ca42c170e9e0d66033e7")); 
+
+free18.com
+	www.free18.net/video-cute-teen-blonde-gets-anal-experience-at-porn-casting-watch-19152.html
+		view-source:http://www.free18.net/embed/video-cute-teen-blonde-gets-anal-experience-at-porn-casting-watch-19152.html
+			('"2://1.0.3/4/6/5.7"',8,8,'free18|c4|http|net|317bd690b50575f97c44cbb6ee26001d|201602141da2e1612f5120e300f49b820ae68c5b|57325f4d|flv'.split('|'),0,{}))
+
+spankbang.com
+	http://de.spankbang.com/jhhj/video/girl+gets+pregnant+by+black+man
+		<img src="//cdnthumb2.spankbang.com/0/9/0/909127-t4.jpg
+		view-source:http://spankbang.com/jhhj/embed/
+		var cover_image = '//cdnthumb2.spankbang.com/0/9/0/909127-t4.jpg';
+		var stream_key  = 'IjE0NjI5MTkzOTYuOSI.IS1q59USXrlf4B8ZoPIgPwFukmE';
+		var stream_id  = 'jhhj';
+		var stream_quality  = '480p';
+		var stream_autoplay  = '0';
+		var stream_hd  = 1;
+		var stream_sd  = 1;
+			http://de.spankbang.com/_jhhj/IjE0NjI5MTkzOTYuOSI.IS1q59USXrlf4B8ZoPIgPwFukmE/title/480p__mp4
+			
+pornfun.com
+	http://pornfun.com/videos/13861/sweet-homemade-dp-on-girlfriend-480p/
+		var flashvars = {
+																			video_id: '13861', 
+																			
+anon-v.com
+	http://anon-v.com/videos/5888/samylatina-b-g-threesome-sucks-while-being-fucked/
+		<a href="http://anon-v.com/download-video.php?vid=http://anon-v.com/get_file/1/071ad210ea4e52c012c2c1ae211b3eba/5000/5888/5888.mp4/?download=true&amp;download_filename=samylatina-b-g-threesome-sucks-while-being-fucked.mp4" dat
+		http://anon-v.com/get_file/0/c8227765355c59e7aab4de54453a692d/5000/5888/screenshots/1.jpg/
+		PHP SESSID
+
+eroxia.com
+	http://www.eroxia.com/video/amazing-sexual-experience-155163.html
+		key: "8b409a6f3659e070654",
+			clip: {
+				url: 'http://media.eroxia.com/videos/5/7/0/c/8/570c8aaf2ac0e.mp4',
+								autoPlay: false,
